@@ -140,7 +140,9 @@ const sponsors = [
   { name: "Kahna Aqua Aroplant", business: "Mineral Water", owner: "Kahaiya Kumar", location: "",
     logo: "assets/images/sponsors/kahna-aqua.jpg", website: "#", description: "Mineral water." },
   { name: "Naksha Expert", business: "Design Interior Materials", owner: "Neeraj kumar verma", location: "",
-    logo: "assets/images/sponsors/neeraj.jpeg", website: "#", description: "Design Interior Materials" }
+    logo: "assets/images/sponsors/neeraj.jpeg", website: "#", description: "Design Interior Materials" },
+  { name: "Shagun", business: "The House of Bride & Groom", owner: "Harikesh Kumar Soni", location: "",
+    logo: "assets/images/sponsors/shagun.jpeg", website: "#", description: "The house of bride and groom" }
 ];
 
 // Presented-by branding (organisers, not sponsors)
