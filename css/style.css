@@ -165,8 +165,34 @@ h2{font-size:clamp(1.7rem,5vw,2.8rem)}
 
 /* sponsors */
 .sp{text-align:center;padding:1.4rem 1.2rem}
-.sp-logo{aspect-ratio:4/3;border-radius:12px;overflow:hidden;background:#0b0406;border:1px solid var(--line);margin-bottom:1rem;display:grid;place-items:center}
-.sp-logo img{width:100%;height:100%;object-fit:cover;transition:transform .6s}.sp:hover .sp-logo img{transform:scale(1.07)}
+.sp-logo {
+    aspect-ratio: 4 / 3;
+    border-radius: 12px;
+    overflow: hidden;
+    background: #fff;
+    border: 1px solid var(--line);
+    margin-bottom: 1rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px;
+}
+
+.sp-logo img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    object-position: center;
+    display: block;
+    transition: transform 0.6s;
+}
+
+.sp:hover .sp-logo img {
+    transform: scale(1.05);
+}
 .ph{display:grid;place-items:center;width:100%;height:100%;font-family:var(--head);font-size:2.4rem;color:var(--gold);background:radial-gradient(circle,rgba(122,20,38,.6),#0b0406)}
 .sp h3{font-size:1.1rem}.sp .biz{color:var(--orange);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;margin:.2rem 0 .5rem}
 .sp .own{font-size:.85rem;margin-top:.6rem;color:var(--cream)}.sp .btn{margin-top:.9rem}

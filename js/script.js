@@ -135,10 +135,12 @@ const sponsors = [
     logo: "assets/images/sponsors/deep-brothers.jpg", website: "#", description: "Franchise of CERA Tiles, Lalganj." },
   { name: "Raj Jewellers", business: "Gold Jewellery", owner: "Hursh Raj", location: "",
     logo: "assets/images/sponsors/raj-jewellers.jpg", website: "#", description: "Gold jewellery." },
-  { name: "Bharat Palie", business: "Wooden & Home Interior", owner: "Mantu Kumar", location: "",
-    logo: "assets/images/sponsors/bharat-palie.jpg", website: "#", description: "Wooden & home interior." },
+  { name: "Anya Beautiparlour", business: "Beauty Parlour", owner: "Anya kumari", location: "",
+    logo: "assets/images/sponsors/anya-beautiparlour.jpg", website: "#", description: "Beauty parlour." },
   { name: "Kahna Aqua Aroplant", business: "Mineral Water", owner: "Kahaiya Kumar", location: "",
-    logo: "assets/images/sponsors/kahna-aqua.jpg", website: "#", description: "Mineral water." }
+    logo: "assets/images/sponsors/kahna-aqua.jpg", website: "#", description: "Mineral water." },
+  { name: "Naksha Expert", business: "Design Interior Materials", owner: "Neeraj kumar verma", location: "",
+    logo: "assets/images/sponsors/neeraj.jpeg", website: "#", description: "Design Interior Materials" }
 ];
 
 // Presented-by branding (organisers, not sponsors)
