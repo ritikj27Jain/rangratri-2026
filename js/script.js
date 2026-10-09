@@ -142,7 +142,9 @@ const sponsors = [
   { name: "Naksha Expert", business: "Design Interior Materials", owner: "Neeraj kumar verma", location: "",
     logo: "assets/images/sponsors/neeraj.jpeg", website: "#", description: "Design Interior Materials" },
   { name: "Shagun", business: "The House of Bride & Groom", owner: "Harikesh Kumar Soni", location: "",
-    logo: "assets/images/sponsors/shagun.jpeg", website: "#", description: "The house of bride and groom" }
+    logo: "assets/images/sponsors/shagun.jpeg", website: "#", description: "The house of bride and groom" },
+  { name: "Samrat", business: "GYM", owner: "Samrat", location: "",
+    logo: "assets/images/sponsors/samrat.jpeg", website: "#", description: "Start building your wealth today" }
 ];
 
 // Presented-by branding (organisers, not sponsors)
